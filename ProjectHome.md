@@ -1,0 +1,1 @@
+A hex-based strategy game set on the surface of a sphere.
